@@ -1,6 +1,6 @@
 # test
 GitHubのテスト
 
-##test
-**test
+##member
+**katamari
 
